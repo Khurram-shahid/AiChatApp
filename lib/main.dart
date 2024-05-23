@@ -3,7 +3,7 @@ import 'package:flutter_gemini/flutter_gemini.dart';
 import 'package:gpt/homepage.dart';
 
 void main() {
-  Gemini.init(apiKey: 'AIzaSyC-L__hquGB6bI3i_w9VIu1VHfIkLmSLY8');
+  Gemini.init(apiKey: '');
   runApp(const MyApp());
 }
 class MyApp extends StatelessWidget {
